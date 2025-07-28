@@ -10,13 +10,6 @@ This repository contains MATLAB code and resources for performing morphological 
 - **Morphological Operations**: Implement dilation, erosion, opening, closing, and boundary extraction.
 - **Visualization**: Compare original and processed images.
 
-## Getting Started
-
-### Prerequisites
-
-- MATLAB (R2018a or later recommended)
-- Image Processing Toolbox
-
 ### Installation
 
 Clone the repository:
