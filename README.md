@@ -1,7 +1,3 @@
-Here’s a sample README for your repository Morphological-Operations-on-Fingerprint-Image, written for a MATLAB-based project. You can copy, modify, or expand it to fit your needs:
-
----
-
 # Morphological Operations on Fingerprint Image
 
 ## Overview
